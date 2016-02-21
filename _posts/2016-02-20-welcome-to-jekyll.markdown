@@ -15,6 +15,8 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
+![monkey]({{site.baseurl}}/_posts/11.jpg)
+
 https://www.youtube.com/watch?v=inAaQSdZQO8
 
 {% highlight ruby %}
